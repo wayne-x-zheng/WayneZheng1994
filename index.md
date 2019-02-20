@@ -18,19 +18,13 @@ This is a repository of research projects to help yourself manage ideas and cons
 - **Status**
 1.
 - [_**References**_](http://google.com)
+
 ### Project 3 
 - **Aim**
 1.
 - **Status**
 1. 
 - [_**References**_](http://google.com)
-
-
-
-
-
-
-
 
 ### Support or Contact
 

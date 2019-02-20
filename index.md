@@ -5,12 +5,12 @@ This is a repository of research projects to help yourself manage ideas and cons
 ### Project 1:[TITLE](https://wayne-x-zheng.github.io/Project1/) 
 - **Aim**
 - **Status**
-- [_**References**_](http://google.com)
+- [_**References**_](https://wayne-x-zheng.github.io/referencelist1/)
 
-### Project 2 
+### Project 2:[TITLE](https://wayne-x-zheng.github.io/Project2/)  
 - **Aim**
 - **Status**
-- [_**References**_](http://google.com)
+- [_**References**_](https://wayne-x-zheng.github.io/referencelist2/)
 
 ### Project 3 
 - **Aim**

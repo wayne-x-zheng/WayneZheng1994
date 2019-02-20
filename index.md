@@ -9,17 +9,21 @@ This is a repository of research projects to help yourself manage ideas and cons
 1.
 - **Status**
 1.
+
+- [_**References**_](http://google.com)
+
 ### Project 2 
 - **Aim**
 1.
 - **Status**
 1.
+- [_**References**_](http://google.com)
 ### Project 3 
 - **Aim**
 1.
 - **Status**
-1.
-
+1. 
+- [_**References**_](http://google.com)
 
 
 

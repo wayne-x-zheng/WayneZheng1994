@@ -2,7 +2,7 @@
 This is a repository of research projects to help yourself manage ideas and construct manuscripts, provided with seperate page of external links of references or additional information for convenience. 
 
 ## Ongoing projects
-### Project 1 
+### Project 1:[TITLE](https://wayne-x-zheng.github.io/Project1/) 
 - **Aim**
 - **Status**
 - [_**References**_](http://google.com)
